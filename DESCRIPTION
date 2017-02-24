@@ -1,0 +1,10 @@
+Package: Rqdea
+Type: Package
+Title: Accesses example Fortran matrix commands from R
+Version: 0.1
+Date: 02-24-2017
+Authors@R: c( person("Atwood", "Joe", email = "jatwood@montana.edu", role = c("cre", "aut")),
+              person("Berardinelli", "Joe", email = "sdberardinelli@gmail.com", role = "ctb"))
+Description: Quuantile DEA
+License: GPL-2
+LazyLoad: yes

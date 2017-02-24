@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+src/*.o
+src/Rqdea.so
+src/Rqdea.dll
+src/*.mod
