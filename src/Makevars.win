@@ -2,5 +2,5 @@ PKG_CPPFLAGS=-g -D_R_=1 -DUSE_R=1 -DCHECK_GLPK_ARGS
 ifeq "$(WIN)" "64"
 PKG_LIBS=-L. -lglpk_4_60
 else
-# no x86 build
+# NOT 32bit compatible
 endif
